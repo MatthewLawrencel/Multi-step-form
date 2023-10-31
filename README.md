@@ -19,3 +19,10 @@ size
 ○ A field has been missed
 ○ The email address is not formatted correctly
 ○ A step is submitted, but no selection has been made
+
+
+
+
+
+# Deployed Link
+https://matthewlawrencel.github.io/Multi-step-form/
