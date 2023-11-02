@@ -21,6 +21,10 @@ size
 ○ A step is submitted, but no selection has been made
 
 
+The Multi-step-form is created by using the javascript where after filling each form and clicking on the next step it takes to next form.
+
+
+
 
 
 
