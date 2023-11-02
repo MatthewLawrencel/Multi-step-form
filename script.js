@@ -65,7 +65,6 @@ nextBtn.addEventListener("click", Increase);
 backBtn.addEventListener("click", Decrease);
 confirmBtn.addEventListener("click", lastStepDisplay);
 
-///////////////////////////////////////////////////////
 
 let planCards = document.querySelectorAll("input[name=plan-type]"),
   serviceCards = document.querySelectorAll("input[name=service-card]"),
